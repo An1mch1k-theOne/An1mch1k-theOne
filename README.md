@@ -1,5 +1,9 @@
 # 👋 Привет! Я — An1mch1k, junior data scientist и аналитик данных.
 
+![An1mch1k's GitHub stats](https://github-readme-stats.vercel.app/api?username=An1mch1k-theOne&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An1mch1k-theOne&layout=compact&theme=radical)
+
 ## 🌟 О себе
 Я специализируюсь на анализе данных, машинном обучении и визуализации. Моя работа основана на глубоком понимании и интерпретации данных.
 
